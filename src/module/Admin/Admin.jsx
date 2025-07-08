@@ -4,7 +4,7 @@ import Chatbot from './chatbot/Builder';
 import Dashboard from './dashboard/Dashboard';
 import UsersPage from './users/Users';
 
-import 'Admin.css';
+import './Admin.css';
 
 export default function Admin() {
   return (
